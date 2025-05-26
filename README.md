@@ -34,6 +34,7 @@ challenge-ingredion-sprint3/
 ├── 📄 README.md                                  # Documentação principal do projeto
 └── 📄 requirements.txt                           # (opcional) Dependências do projeto
 
+
 ---
 
 ## 🔬 Métodos Utilizados
