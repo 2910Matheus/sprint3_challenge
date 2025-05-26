@@ -17,7 +17,7 @@ Correlacionar previsões de produtividade agrícola com dados reais da safra 202
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
 challenge-ingredion-sprint3/
 │
 ├── 📁 data/
@@ -33,7 +33,7 @@ challenge-ingredion-sprint3/
 ├── 📄 Relatorio_Tecnico_Sprint3.pdf             # Relatório final em PDF
 ├── 📄 README.md                                  # Documentação principal do projeto
 └── 📄 requirements.txt                           # (opcional) Dependências do projeto
-
+```
 
 ---
 
