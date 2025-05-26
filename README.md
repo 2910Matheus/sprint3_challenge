@@ -31,8 +31,7 @@ challenge-ingredion-sprint3/
 │   └── analise_sprint3.ipynb                    # Notebook Colab com o código
 │
 ├── 📄 Relatorio_Tecnico_Sprint3.pdf             # Relatório final em PDF
-├── 📄 README.md                                  # Documentação principal do projeto
-└── 📄 requirements.txt                           # (opcional) Dependências do projeto
+└── 📄 README.md                                 # Documentação principal do projeto
 ```
 
 ---
