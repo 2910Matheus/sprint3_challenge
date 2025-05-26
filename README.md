@@ -21,7 +21,7 @@ Correlacionar previsões de produtividade agrícola com dados reais da safra 202
 challenge-ingredion-sprint3/
 │
 ├── 📁 data/
-│   └── simulacao_milho_mg_2023_2024.xlsx       # Dados utilizados na análise
+│   └── dados_milho_mg_2023_2024.xlsx       # Dados utilizados na análise
 │
 ├── 📁 figures/
 │   ├── grafico_dispersao_ndvi_produtividade.png
